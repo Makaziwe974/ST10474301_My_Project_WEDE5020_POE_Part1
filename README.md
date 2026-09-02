@@ -1,21 +1,39 @@
 # ST10474301_My_Project_WEDE5020_POE_Part1
 
-# My Project: Frozen Trust Website Proposal
+---
+
+# My Project Title: Frozen Trust Website 
+**Frozen Trust**
+Frozen Trust is a local business that supplies packaged ice to households, event organizers, and local business.(about, introduction)
+
+
+---
+
 
 ## Student Information
-Student No: ST10474301
 
-Student Full Name: Makazine Happy Mtsweni
+|---|---|
 
-Group: Year 1 Group 4
+| Student No | ST10474301 |
 
-Module: Web Development (Introduction)
+| Student Full Name | Makazine Happy Mtsweni |
 
-Module Code: WEDE5020
+| Group: | Year 1 Group 4 |
+
+| Module Name | Web Development (Introduction) |
+
+| Module Code | WEDE5020 |
+
+| Lecturer | Deogratias Phiri |
+
+---
 
 ## My Project Overview
 
 Frozen Trust is a local ice-supply business based at 210 Thabana, Section C, Mpumalanga. The business supplies packaged ice to households, event organizers and local businesses, with a focus on dependable service and affordable bulk options. The 2026 promotional material highlights 2 kg and 3 kg ice bags as well as a freezer-and-ice promotional deal, giving the business a practical opportunity to make its products and services easier to discover online. 
+
+
+---
 
 
 ## Vision and Mission
@@ -103,6 +121,7 @@ Provide contact information and enquiry forms.
 Improve business credibility. 
 
 Allow customers to request freezer rentals online. 
+
 
 ## Proposed Website Features and Functionality 
 
@@ -238,13 +257,27 @@ Mobile-friendly design.
 Ensure navigation and links work across all HTML pages. 
 Large buttons for contact via WhatsApp and other online platforms. 
 
+--
+
 ## Site Map
 
 <img width="1212" height="552" alt="image" src="https://github.com/user-attachments/assets/0030af82-7b67-48fc-bb28-16a3776eb77e" />
 
+--
+
 ## Changelog
 
 ## Version 1.0.0 -Part 1 Submission
+
+| Date | Version | Change Description |
+| ---  | ---- | ---- |
+| 10/08/2026 | v1.0 | Initial repository setup, added folder structure |
+|12/08/2026 | v1.1  | Added index.html and basic navigation |
+| 14/08/2026 | v1.2 | Added about_us.html and enquiry.html |
+| 25/08/2026 | v1.3 | Added initial style.css |
+| | | * Add new rows as the project progresses* |
+
+---
 
 ## Added
 
@@ -311,22 +344,28 @@ Git and GitHub – proposed version control, backup and project submission.
 
 Testing – Chrome, Edge and Firefox, plus smartphone/tablet/desktop screen sizes. 
 
+---
  
 ## Timeline and Milestones 
- 
-Proposal Approved -Stage 1
 
-Research Completed - Stage 2
+| Milestones | Target Date | Status |
 
-Sitemap Completed - Stage 3
+|--- | --- | ---|
 
-HTML Pages Developed - Stage 4
+| Planning & Wireframing | 05/08/2026 | Complete |
 
-Navigation Completed -Stage 5
+| Part 1: Submit Proposal and Semantic HTML Structure | 14/08/2026 | Complete |
 
-Testing Completed - Stage 6 
+| Adding external CSS styling and mobile responsiveness | 16/09/2026 | Ongoing |
 
-GitHub Repository Submitted -Stage 7
+| Part 2: Submit CSS and responsiveness to website | 18/09/2026 | Planned |
+
+| Adding JavaScript and interactivity | TBC | Planned |
+
+| Part 3: Final Testing & Submission | TBC | Planned |
+
+ ---
+
 
  
 ## Budget 
