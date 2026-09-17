@@ -1,4 +1,4 @@
-# ST10474301_My_Project_WEDE5020_POE_Part1
+# ST10474301_My_Project_WEDE5020_POE_Part2
 
 ---
 
@@ -63,6 +63,43 @@ Generate more enquiries and orders through prominent “Order / Enquire Now” c
 Promote bulk purchasing and seasonal offers, including the 2026 Summer Deals, without depending on a printed flyer alone. 
 
 Build trust by presenting real business information, photographs, clear pricing, and simple customer communication. 
+
+## Website Pages
+
+-Home
+
+-About
+
+-Products
+
+-Services
+
+-Enquiry
+
+-Contact
+
+## Technologies Used
+
+-HTML5
+
+-CSS3
+
+-Visual Studio Code
+
+-GitHub
+
+## Part 2 Features
+
+-CSS stylesheet
+
+-Website navigation
+
+-Responsive design
+
+-Image assets
+
+-Typography and layout styling
+
 
 ## Key Performance Indicators (KPIs) 
 
@@ -275,6 +312,9 @@ Large buttons for contact via WhatsApp and other online platforms.
 |12/08/2026 | v1.1  | Added index.html and basic navigation |
 | 14/08/2026 | v1.2 | Added about_us.html and enquiry.html |
 | 25/08/2026 | v1.3 | Added initial style.css |
+| 17/09/2026 | v1.4 | Added the stylesheet link to each HTML pages |
+| 17/09/2026 | v1.5 | Added the images folder |
+| 17/09/2026 | v1.6 | Added responsive desktop styling |
 | | | * Add new rows as the project progresses* |
 
 ---
@@ -291,11 +331,21 @@ Developed initial sitemap
 
 Completed project planning documentation.
 
+Added the stylesheet link to each pages.
+
+Added the images folder.
+
+Added media query for screens below 960px.
+
 ## Changed
 
 Updated project overview.
 
 Refined website objectives
+
+Adjusted navigation pages
+
+
 
 ## Planned
 
